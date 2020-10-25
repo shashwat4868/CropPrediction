@@ -13,4 +13,4 @@ Predicts the crop to be grown on a soil using ML.
                   After the predicted data gets reflected in the firebase database, the farmers can view it in their mobile application.
                   They can know what crop to cultivate and what price at which the crops should be sold to earn reasonable profit for the farmers
                   They can also view the necessary nutrients and fertilizers that the crop would need for its healthy growth
-                  Any drastic change in the environmental factors could be notified to the farmers immediately
+                  Any drastic change in the environmental factors could be notified to the farmers immediately.
