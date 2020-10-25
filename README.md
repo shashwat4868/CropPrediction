@@ -1,11 +1,9 @@
 # CropPrediction
-Predicts the crop to be grown on a soil using ML.
-
 
 <html>
   <head>
     
-     Crop-prediction-using-Machine-Learning
+     Crop prediction using ML
     
   </head>
   <body>
